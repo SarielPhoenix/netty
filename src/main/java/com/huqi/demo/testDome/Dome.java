@@ -14,5 +14,6 @@ public class Dome {
     public static void main(String[] args) {
         log.error("测试 {}", 1);
         log.debug("测试 {}", 2);
+        log.info("1");
     }
 }
