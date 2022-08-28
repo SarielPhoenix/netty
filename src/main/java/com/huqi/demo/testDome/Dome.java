@@ -15,5 +15,6 @@ public class Dome {
         log.error("测试 {}", 1);
         log.debug("测试 {}", 2);
         log.info("hot-fix {}", 4);
+        log.info("1");
     }
 }
